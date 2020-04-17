@@ -4,19 +4,17 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of y
 
 ## Files contained in this repo
 
-Jupyter notebook "climate.ipynb" contains analysis for the following:
-* Step 1 - Climate Analysis and Exploration
-  ** Precipitation Analysis
-  ** Station Analysis
-* Bonus
-  ** Temperature Analysis I
-  ** Temperature Analysis II
-  ** Daily Rainfall Average (partial analysis)
-
-Python file "app.py" is used to create Flask API for:
-* Step 2 - Climate App
-
-SQLite file "hawaii.sqlite" is included in this repo and was used in the jupyter notebook.
+* Jupyter notebook "climate.ipynb" contains analysis for the following:
+ ** Step 1 - Climate Analysis and Exploration
+   *** Precipitation Analysis
+   *** Station Analysis
+ ** Bonus
+   *** Temperature Analysis I
+   *** Temperature Analysis II
+   *** Daily Rainfall Average (partial analysis)
+* Python file "app.py" is used to create Flask API for:
+ ** Step 2 - Climate App
+* SQLite file "hawaii.sqlite" is included in this repo and was used in the jupyter notebook.
 
 ## Bonus - Temperature Analysis I - Question
 Use the t-test to determine whether the difference in the means, if any, is statistically significant. Will you use a paired t-test, or an unpaired t-test? Why?
