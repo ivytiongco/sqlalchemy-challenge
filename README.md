@@ -1,6 +1,6 @@
 # Project Background
 
-Use Python and SQLAlchemy to do basic climate analysis and data exploration of climate database using SQLAlchemy ORM queries, Pandas, and Matplotlib, as well as designing a Flask API based on the queries developed.
+Use Python and SQLAlchemy to do climate analysis and data exploration of climate database using SQLAlchemy ORM queries, Pandas, and Matplotlib, as well as designing a Flask API based on the queries developed.
 
 ## Files contained in this repo
 
